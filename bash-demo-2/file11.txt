@@ -1,0 +1,1 @@
+echo "1st content inside first file" > "$file1"

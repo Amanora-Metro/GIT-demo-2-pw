@@ -1,0 +1,11 @@
+1	Rajesh Kumar	45,000
+2	Priya Singh	58,500
+3	Aman Verma	39,200
+4	Sneha Patel	62,000
+5	Arjun Mehta	51,300
+6	Kavita Sharma	47,800
+7	Rohit Das	55,100
+8	Nisha Yadav	43,700
+9	Vikram Joshi	60,250
+10	Meena Nair	49,600
+
