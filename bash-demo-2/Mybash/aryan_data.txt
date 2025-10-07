@@ -1,0 +1,6 @@
+Responsible for batch jobs creation and Scheduling
+Scheduling cyclic, firewatcher and dynamic cycle
+Providing L2 support for Control-M EM.
+Delivering the services within the agreed SLAs
+Representing on calls with the clients to provide solution to their requirement
+
