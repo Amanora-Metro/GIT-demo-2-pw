@@ -4,7 +4,7 @@
 
 i=1
 
-while [ $i -le 5 ]
+while [ $ii -le 5 ]
 do
   echo "Number: $i"
   (( i++ ))  # increment by 1
